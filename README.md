@@ -1,4 +1,4 @@
-# A hardhat testnet environment base on pancake-frontend  
+# A bsc testnet environment base on pancake-frontend  
 
 ## Node Environment  
 (recommend)    
