@@ -7,9 +7,6 @@
 ## Install
 `sh install.sh`  
 
-## Serve  
-`sh serve.sh` 
-
 ## Deploy 
 `sh deploy.sh`  
 
